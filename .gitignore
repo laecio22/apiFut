@@ -1,2 +1,6 @@
-env
+.env
 node_modules/
+/src/generated/prisma
+.agents
+.claude
+.windsurf
